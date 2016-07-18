@@ -75,4 +75,8 @@ public class MainActivity extends AppCompatActivity {
     public void toMEIZU(View view) {
         UserActivity.startUserActivity(this);
     }
+
+    public void toMEIZU2(View view) {
+        MiezuAct.startMiezuAct(this);
+    }
 }

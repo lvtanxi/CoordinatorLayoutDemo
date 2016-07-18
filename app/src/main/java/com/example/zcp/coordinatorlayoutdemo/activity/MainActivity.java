@@ -72,4 +72,7 @@ public class MainActivity extends AppCompatActivity {
     public void toTest(View view) {
         TestBottomSheetAct.startTestBottomSheetAct(this);
     }
+    public void toMEIZU(View view) {
+        UserActivity.startUserActivity(this);
+    }
 }

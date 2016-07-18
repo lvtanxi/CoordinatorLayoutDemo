@@ -45,6 +45,12 @@
             android:layout_marginTop="30dp"
             android:onClick="toTest"
             android:text="BottomSheetBehavior（自己实现）"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:onClick="toMEIZU"
+            android:text="魅族天气效果"/>
     </LinearLayout>
 
     <android.support.design.widget.FloatingActionButton
